@@ -1,0 +1,9 @@
+CREATE DATABASE IF NOT EXISTS marketing_tool;
+USE marketing_tool;
+
+CREATE TABLE posts (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    website_url VARCHAR(255) NOT NULL,
+    content TEXT NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
