@@ -8,6 +8,7 @@ A simple frontend design prototype of a Marketing Tool built using **pure PHP**,
 This version includes only UI components and page structure — **no backend logic or database integration yet**.
 
 ---
+<img width="1901" height="905" alt="marketing" src="https://github.com/user-attachments/assets/b5451867-b971-4842-985d-a7f391cdd40f" />
 
 ## 📌 Features (Design Only)
 
